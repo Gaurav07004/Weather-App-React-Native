@@ -1,7 +1,4 @@
 node_modules/
 .expo/
 Components/
-app.js
-babel.config
-package
-package-lock
+
